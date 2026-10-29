@@ -1,0 +1,6 @@
+@PiccFinance.Api_HostAddress = http://localhost:5122
+
+GET {{PiccFinance.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
